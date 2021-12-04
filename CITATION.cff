@@ -1,0 +1,14 @@
+
+@inproceedings{biadgline:hal-03272258,
+  TITLE = {{Parallel Corpora Preparation for English-Amharic Machine Translation}},
+  AUTHOR = {Biadgline, Yohanens and Sma{\"i}li, Kamel},
+  URL = {https://hal.inria.fr/hal-03272258},
+  BOOKTITLE = {{IWANN 2021 - International Work on Artificial Neural Networks, Conference Springer LNCS proceedings}},
+  ADDRESS = {Online, Spain},
+  YEAR = {2021},
+  MONTH = Jun,
+  KEYWORDS = {Amharic language ; Machine Translation ; SMT ; NMT ; Parallel Corpus ; BLEU},
+  PDF = {https://hal.inria.fr/hal-03272258/file/IWAAN_Paper_Final.pdf},
+  HAL_ID = {hal-03272258},
+  HAL_VERSION = {v1},
+}
