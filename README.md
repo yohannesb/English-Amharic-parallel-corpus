@@ -23,15 +23,6 @@ The final aligned texts are stored as UTF-8 encoded files, one for English and o
 
 Both files are aligned at the sentence level, ensuring that each line in the English file corresponds directly to the same line in the Amharic file.
 
-## Repository Structure
-├── data/
-│   ├── amharic.txt        # UTF-8 encoded Amharic sentences
-│   ├── english.txt        # UTF-8 encoded English sentences
-│   └── README.md
-├── scripts/
-│   └── alignment_tools/   # Optional scripts for processing and alignment
-└── LICENSE
-
 ## Usage
 You may load and use the corpus directly in tools or frameworks such as:
 
@@ -59,7 +50,7 @@ Suitable applications include:
     pages       = {443--455},
     year        = {2021},
     organization= {Springer}
-} ```
+} 
 
 
 
