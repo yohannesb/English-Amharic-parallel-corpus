@@ -31,6 +31,13 @@ with open("data/english.txt", "r", encoding="utf-8") as en, \
     english_sentences = en.readlines()
     amharic_sentences = am.readlines()
 
+    ```python
+with open("data/english.txt", "r", encoding="utf-8") as en, \
+     open("data/amharic.txt", "r", encoding="utf-8") as am:
+    english_sentences = en.readlines()
+    amharic_sentences = am.readlines()
+```
+
 Suitable applications include:
   * Training machine translation (MT) models
   * Cross-lingual representation learning
