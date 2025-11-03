@@ -41,17 +41,24 @@ Suitable applications include:
   If you use this corpus in your research, please cite the following work:
 
 
+**BibTeX**
+
+```bibtex
 @inproceedings{biadgligne2021parallel,
-    title       = {Parallel corpora preparation for English-Amharic machine translation},
-    author      = {Biadgligne, Yohanens and Sma{\"i}li, Kamel},
-    booktitle   = {International Work-Conference on Artificial Neural Networks},
-    pages       = {443--455},
-    year        = {2021},
+    title = {Parallel corpora preparation for English-Amharic machine translation},
+    author = {Biadgligne, Yohanens and Sma{"i}li, Kamel},
+    booktitle = {International Work-Conference on Artificial Neural Networks},
+    pages = {443--455},
+    year = {2021},
     organization= {Springer}
-}
+    }
+```
 
+**APA Style**
 
+```text
 Biadgligne, Y., & Smaïli, K. (2021). Parallel corpora preparation for English–Amharic machine translation. In International Work-Conference on Artificial Neural Networks (pp. 443–455). Springer.
+```
 
 
 
