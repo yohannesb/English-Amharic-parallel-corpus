@@ -51,14 +51,16 @@ Suitable applications include:
 
 ** BibTex**
 
+```bibtex
 @inproceedings{biadgligne2021parallel,
-  title     = {Parallel corpora preparation for English-Amharic machine translation},
-  author    = {Biadgligne, Yohanens and Sma{\"i}li, Kamel},
-  booktitle = {International Work-Conference on Artificial Neural Networks},
-  pages     = {443--455},
-  year      = {2021},
-  organization = {Springer}
+    title       = {Parallel corpora preparation for English-Amharic machine translation},
+    author      = {Biadgligne, Yohanens and Sma{\"i}li, Kamel},
+    booktitle   = {International Work-Conference on Artificial Neural Networks},
+    pages       = {443--455},
+    year        = {2021},
+    organization= {Springer}
 }
+
 
 
 **APA Style**
